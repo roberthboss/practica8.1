@@ -1,0 +1,2 @@
+Código frontend módulo pagos
+Funcionalidad de pagos con wallet implementada
